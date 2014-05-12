@@ -7,7 +7,7 @@
 
 ### [Behavior-Driven Development](http://www.youtube.com/watch?v=tYx82_cKLEk)  
 Докладчик: Борисов Кирилл  
-Ключевые слова: BDD, Cucumber (https://github.com/cucumber/cucumber), Gherkin (), Lettuce (http://lettuce.it), Freshen (https://github.com/rlisagor/freshen), behave (https://github.com/behave/behave), PyVows (https://github.com/heynemann/pyvows)  
+Ключевые слова: BDD, Cucumber (https://github.com/cucumber/cucumber), Gherkin, Lettuce (http://lettuce.it), Freshen (https://github.com/rlisagor/freshen), behave (https://github.com/behave/behave), PyVows (https://github.com/heynemann/pyvows)  
 
 
 ### [Pony ORM - маппер нового поколения ](http://www.youtube.com/watch?v=6Gqb6v6FiRM)  
