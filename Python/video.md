@@ -8,3 +8,8 @@
 Доклад: [Behavior-Driven Development](http://www.youtube.com/watch?v=tYx82_cKLEk)  
 Докладчик: Борисов Кирилл  
 Ключевые слова: BDD, Cucumber, Gherkin, Lettuce (http://lettuce.it), Freshen, behave, PyVows  
+
+Доклад: [Pony ORM - маппер нового поколения ](http://www.youtube.com/watch?v=6Gqb6v6FiRM)  
+Докладчики:  Александр Козловский, Алексей Малашкевич  
+Ключевые слова: ORM, Pony
+
