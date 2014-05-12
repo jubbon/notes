@@ -1,6 +1,8 @@
 Работа с Docker
 ===============
 
+![Статус сборки](http://img.shields.io/travis/dotcloud/docker.svg?style=flat)  
+
 [Домашняя страница](http://docker.io)  
 [Исходный код](https://github.com/dotcloud/docker)  
 [Репозиторий Docker-контейнеров](https://index.docker.io)
