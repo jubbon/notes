@@ -6,7 +6,7 @@
 [Документация](http://docs.fabfile.org)  
 [Исходный код](https://github.com/fabric/fabric)  
 
-## Пакет Fabtools
+## Пакет fabtools
 ![Версия](http://img.shields.io/pypi/v/fabtools.svg?style=flat)
 ![Закачек](http://img.shields.io/pypi/dm/fabtools.svg?style=flat)
 ![Статус сборки](http://img.shields.io/travis/ronnix/fabtools.svg?style=flat)  
