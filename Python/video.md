@@ -5,12 +5,12 @@
 Адрес: http://pyvideo.ru/category/11/piterpy-2014  
 
 
-Доклад: [Behavior-Driven Development](http://www.youtube.com/watch?v=tYx82_cKLEk)  
+### Доклад: [Behavior-Driven Development](http://www.youtube.com/watch?v=tYx82_cKLEk)  
 Докладчик: Борисов Кирилл  
 Ключевые слова: BDD, Cucumber (https://github.com/cucumber/cucumber), Gherkin (), Lettuce (http://lettuce.it), Freshen (https://github.com/rlisagor/freshen), behave (https://github.com/behave/behave), PyVows (https://github.com/heynemann/pyvows)  
 
 
-Доклад: [Pony ORM - маппер нового поколения ](http://www.youtube.com/watch?v=6Gqb6v6FiRM)  
+### Доклад: [Pony ORM - маппер нового поколения ](http://www.youtube.com/watch?v=6Gqb6v6FiRM)  
 Докладчики:  Александр Козловский, Алексей Малашкевич  
 Ключевые слова: ORM, Pony (http://ponyorm.com, https://github.com/ponyorm/pony)
 
