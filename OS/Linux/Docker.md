@@ -1,5 +1,4 @@
-Работа с Docker
-===============
+# Docker
 
 ![Статус сборки](http://img.shields.io/travis/dotcloud/docker.svg?style=flat)  
 
