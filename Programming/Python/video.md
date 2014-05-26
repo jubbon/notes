@@ -14,3 +14,7 @@
 Докладчики:  Александр Козловский, Алексей Малашкевич  
 Ключевые слова: ORM, Pony (http://ponyorm.com, https://github.com/ponyorm/pony)
 
+
+### [Разработка на Python с применением подхода Literate Programming](http://www.youtube.com/watch?v=cWcKRanuti0)  
+Докладчик: Пирогов Алексей  
+Ключевые слова:  
