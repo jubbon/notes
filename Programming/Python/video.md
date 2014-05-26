@@ -17,4 +17,5 @@
 
 ### [Разработка на Python с применением подхода Literate Programming](http://www.youtube.com/watch?v=cWcKRanuti0)  
 Докладчик: Пирогов Алексей  
-Ключевые слова:  
+Ключевые слова: noweb, PyWeb, LeoEditor  
+
